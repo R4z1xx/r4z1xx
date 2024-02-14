@@ -3,7 +3,3 @@
 ### ℹ️ About Me
 Cybersecurity enthousiast, I publish things sometimes.
 > (Currently working on a web sandbox project)
-
-### 💻 HackTheBox
-I am also active on HackTheBox, a practical hacking platform that challenges my cybersecurity skills. </br>
-You can check out my [HackTheBox profile](https://app.hackthebox.com/users/610508) for more details.
